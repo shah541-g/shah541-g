@@ -4,7 +4,7 @@
 📍 Lahore, Pakistan  
 📫 [Email Me](mailto:syedabdulalishah.786@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/syed-abdul-ali-shah/)  
-📄 [Portfolio](https://www.artfolio.tech/syedabdulalishah)
+📄 [Portfolio](https://www.artfolio.tech/syedabdulalishah)\n
 📱 +92 327 1152475  
 
 ---
