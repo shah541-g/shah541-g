@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1350&q=80" width="100%" height="180" alt="Coding Workspace Banner" />
+<img src="https://images.pexels.com/photos/1181359/pexels-photo-1181359.jpeg" width="100%" height="500" alt="Coding Workspace Banner" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=F7971E&center=true&vCenter=true&width=600&height=75&lines=Hi+I'm+Syed+Abdul+Ali+Shah!;Code.+Learn.+Create.+Repeat." />
