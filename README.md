@@ -1,99 +1,87 @@
-## Hi there 👋
-# 👨‍💻 Syed Abdul Ali Shah – Software Developer
+<img src="https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif" width="100%" height="180" />
 
-📍 Lahore, Pakistan  
-📫 [Email Me](mailto:syedabdulalishah.786@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/syed-abdul-ali-shah/)  
-📄 [Portfolio](https://www.artfolio.tech/syedabdulalishah)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+I'm+Syed+Abdul+Ali+Shah+🚀;" />
+</h1>
 
-📱 +92 327 1152475  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shah541-g&label=Profile%20views&color=0e75b6&style=flat" alt="shah541-g" />
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Student.;Problem+Solver.;Builder+of+Things.;Bookworm.;Code+Adventurer."/>
+</p>
 
-## 🚀 About Me
-
-I'm a passionate and detail-oriented Software Engineering student with a solid foundation in programming, a hunger for learning, and a drive to build solutions that matter. I enjoy exploring new technologies, collaborating with teams, and crafting software that bridges real-world needs with clean, elegant code.
-
----
-
-## 🎓 Education
-
-- **BS in Software Engineering** – UET Lahore (New Campus)  
-- **FSc Pre-Engineering** – Government College University, Lahore  
-- **Matric in Science (Biology)** – Beaconsfield High School  
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-top:20px"/>
 
 ---
 
-## 🛠️ Technical Skills
+### 🌟 About Me
 
-**Languages:** C, C++, C#, Java, Python, PHP, JavaScript  
-**Web:** HTML, CSS, Bootstrap, JavaScript  
-**Databases:** SQL, MySQL  
-**Frameworks:** Laravel, Spring Boot  
-**Tools & Tech:** .NET, Windows Forms, UML, WordPress, WooCommerce  
-
----
-
-## 💼 Projects Showcase
-
-### 🔹 Dhamall – E-Commerce Platform  
-_6th Semester | Laravel, MySQL, JS, Bootstrap_  
-Multi-role marketplace with 30+ pages covering buyer, seller, and admin workflows.
-
-### 🔹 Scarpe' – Shoe Store Website  
-_3rd Semester | WordPress, WooCommerce_  
-Client project focused on requirement elicitation and full frontend deployment.  
-[Visit Website](https://scarpe.com.pk)
-
-### 🔹 PacMaze Adventures – Multiplayer Desktop Game  
-_5th Semester | Java, Spring Boot_  
-Pacman-inspired game with real-time server updates and scoring system.
-
-### 🔹 Library Management System  
-_4th Semester | C#, SQL Server_  
-Desktop app managing user registration, book lending, and penalty systems.
-
-### 🔹 Secret Builders – Real Estate Website  
-_2nd Semester | HTML, CSS, Bootstrap_  
-Frontend project focusing on responsive design with modular documentation.
-
-### 🔹 Python GUI Games & Tools  
-_Personal Projects | Tkinter, Turtle, JSON, API_  
-Includes Snake, Pong, Car Game, Password Manager, Flashcards, and Quizzler app.
+- 🏫 **Student @ UET Lahore**  
+  On a journey to master software engineering, one bug at a time.
+- 🧠 **Learning Machine**  
+  I thrive on new challenges, whether it’s building a full-stack app or cracking a tricky algorithm.
+- 💡 **Inventor at Heart**  
+  If it doesn’t exist, I’ll build it. If it exists, I’ll make it better.
+- 🤝 **Connector**  
+  I believe the best software is built together—collaboration drives my creativity.
 
 ---
 
-## 🏅 Achievements & Activities
+### 🚀 What I'm Building
 
-- Leading a problem-solving WhatsApp group working through _Cracking the Coding Interview_
-- Consistent academic performer (CGPA: **3.678**)
-- Passionate about Arabian history, coding documentaries, and book reading
-
----
-
-## 🗣️ Languages
-
-- English (Fluent)  
-- Urdu (Native)
+- 🎮 Polishing desktop games with Python, Java & C#
+- 🛒 Crafting e-commerce solutions (Laravel, PHP, MySQL)
+- 🌐 Designing responsive, beautiful web interfaces
+- 🧩 Open to game jams, hackathons, and creative coding sprints!
 
 ---
 
-## 🤝 Let's Connect
+### 📚 Fun Facts
 
-I'm open to internships, freelance work, and collaborative tech projects. Feel free to reach out!
+- 📖 I never say no to a good book (history & science, yes please!)
+- 🎬 Inspired by movies that make you think
+- 🏜️ Arabian history buff & trivia master
+- 🥇 Secret superpower: I spot patterns everywhere—sometimes even in chaos!
 
+---
 
-<!--
-**shah541-g/shah541-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ My Toolbox
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,python,java,cs,cpp,laravel,spring,mysql,git,github,vscode" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌈 Let's Connect
+
+<p align="center">
+  <a href="mailto:syedabdulalishah.786@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="32" /></a>
+  <a href="https://www.linkedin.com/in/syed-abdul-ali-shah/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" /></a>
+  <a href="https://github.com/shah541-g"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" height="32" /></a>
+</p>
+
+---
+
+### 🏆 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=shah541-g&show_icons=true&theme=react&rank_icon=github&border_radius=10" height="160"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shah541-g&langs_count=8&layout=compact&theme=react&border_radius=10" height="160"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shah541-g&theme=react&border_radius=10" height="160"/>
+</p>
+
+---
+
+### 💬 Quote I Live By
+
+> “Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world.”  
+> — Albert Einstein
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=600&height=70&lines=Let's+create+something+amazing+together!;Drop+me+a+message+anytime!;Happy+Coding+%F0%9F%91%BB" />
+</h2>
