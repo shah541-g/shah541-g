@@ -11,7 +11,7 @@
   </defs>
   <rect width="1200" height="230" rx="14" fill="url(#bg)"/>
   <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">
-    <g fill="#e2e8f0" stroke="#334155">
+    <g fill="#182235" stroke="#475569">
       <rect x="34" y="78" width="150" height="74" rx="10"/><rect x="224" y="78" width="170" height="74" rx="10"/>
       <rect x="434" y="78" width="180" height="74" rx="10"/><rect x="654" y="50" width="220" height="130" rx="10"/>
       <rect x="914" y="78" width="230" height="74" rx="10"/>
@@ -22,9 +22,9 @@
       <text x="934" y="104">EVIDENCE REPORT</text>
     </g>
     <g fill="#94a3b8">
-      <text x="54" y="128">website</text><text x="244" y="128">scope + scheme</text>
-      <text x="454" y="128">one action</text><text x="674" y="102">gVisor · Playwright</text>
-      <text x="674" y="126">network + secret limits</text><text x="934" y="128">findings + screenshots</text>
+      <text x="54" y="128" fill="#f8fafc">website</text><text x="244" y="128" fill="#f8fafc">scope + scheme</text>
+      <text x="454" y="128" fill="#f8fafc">one action</text><text x="674" y="102" fill="#f8fafc">gVisor · Playwright</text>
+      <text x="674" y="126" fill="#f8fafc">network + secret limits</text><text x="934" y="128" fill="#f8fafc">findings + screenshots</text>
     </g>
     <g fill="none" stroke="url(#stroke)" stroke-width="2">
       <path d="M184 115h40M394 115h40M614 115h40M874 115h40"/>

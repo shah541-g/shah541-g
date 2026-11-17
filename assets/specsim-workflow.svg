@@ -7,12 +7,12 @@
   </defs>
   <rect width="1200" height="250" rx="14" fill="url(#bg)"/>
   <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">
-    <g fill="#e2e8f0" stroke="#334155">
+    <g fill="#182235" stroke="#475569">
       <rect x="44" y="82" width="180" height="58" rx="9"/><rect x="286" y="54" width="230" height="114" rx="10"/>
       <rect x="578" y="82" width="180" height="58" rx="9"/><rect x="820" y="54" width="230" height="114" rx="10"/>
     </g>
     <g fill="#a78bfa" font-size="11"><text x="64" y="106">GROUND TRUTH</text><text x="306" y="80">CLIENT AGENT</text><text x="598" y="106">TRANSCRIPT</text><text x="840" y="80">EVALUATOR AGENT</text></g>
-    <g fill="#94a3b8"><text x="64" y="126">hidden requirements</text><text x="306" y="106">controlled reveal</text><text x="306" y="130">conversation memory</text><text x="598" y="126">evidence boundary</text><text x="840" y="106">independent judgment</text><text x="840" y="130">coverage + feedback</text></g>
+    <g fill="#f8fafc"><text x="64" y="126">hidden requirements</text><text x="306" y="106">controlled reveal</text><text x="306" y="130">conversation memory</text><text x="598" y="126">evidence boundary</text><text x="840" y="106">independent judgment</text><text x="840" y="130">coverage + feedback</text></g>
     <g fill="none" stroke="url(#stroke)" stroke-width="2"><path d="M224 111h62M516 111h62M758 111h62"/></g>
     <g fill="#a78bfa"><circle cx="255" cy="111" r="3"/><circle cx="547" cy="111" r="3"/><circle cx="789" cy="111" r="3"/></g>
     <path d="M325 190h550" stroke="#334155" stroke-dasharray="5 6"/><text x="478" y="216" fill="#64748b">same evidence, separate responsibilities</text>
