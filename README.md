@@ -18,7 +18,7 @@
 
 I’m **Syed Abdul Ali Shah**, a Software Engineer working across product engineering, backend systems, infrastructure, and AI-assisted tools. I work across languages and ecosystems rather than around one framework: from C and C++ foundations to Java, C#, Python, PHP, JavaScript, and TypeScript applications.
 
-At Ventech Studio, I work on international event-ticketing and fan-engagement products: REST APIs, Angular administration surfaces, cross-platform Ionic/Capacitor applications, role-based access control, real-time voting, and content management. I also served as a Teaching Assistant for Data Structures and Algorithms at UET Lahore.
+I build international event-ticketing and fan-engagement products: REST APIs, Angular administration surfaces, cross-platform Ionic/Capacitor applications, role-based access control, real-time voting, and content management. I also served as a Teaching Assistant for Data Structures and Algorithms at UET Lahore.
 
 > **Engineering lens:** make the happy path useful, make the failure path explicit, and make the boundary between the two difficult to cross accidentally.
 
@@ -68,7 +68,7 @@ The value is not just storing incidents; it is making the reasoning behind a fix
   <p align="center"><img src="./assets/regression-whisperer-architecture.svg" alt="Regression Whisperer architecture: React client, authenticated API, knowledge store, and AI assistance" width="100%"></p>
 </details>
 
-### [Philbox / Ventech Project](https://github.com/shah541-g/Ventech-Project) · healthcare operations SaaS
+### [Philbox](https://github.com/shah541-g/Ventech-Project) · healthcare operations SaaS
 
 <p><sub>PRODUCT ENGINEERING / BACKEND ARCHITECTURE / ROLE-BASED WORKFLOWS</sub></p>
 
