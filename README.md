@@ -18,7 +18,7 @@
 
 I’m **Syed Abdul Ali Shah**, a Software Engineer working across product engineering, backend systems, infrastructure, and AI-assisted tools. I work across languages and ecosystems rather than around one framework: from C and C++ foundations to Java, C#, Python, PHP, JavaScript, and TypeScript applications.
 
-I build international event-ticketing and fan-engagement products: REST APIs, Angular administration surfaces, cross-platform Ionic/Capacitor applications, role-based access control, real-time voting, and content management. I also served as a Teaching Assistant for Data Structures and Algorithms at UET Lahore.
+I build international event-ticketing and fan-engagement products: REST APIs, Angular administration surfaces, cross-platform Ionic/Capacitor applications, role-based access control, real-time voting, and content management. I have also taught Data Structures and Algorithms as a Teaching Assistant.
 
 > **Engineering lens:** make the happy path useful, make the failure path explicit, and make the boundary between the two difficult to cross accidentally.
 
