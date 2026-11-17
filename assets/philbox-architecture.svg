@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Philbox architecture</title>
+  <desc id="desc">Role-aware healthcare modules connect through a layered API core to data, payments, notifications, and real-time events.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="stroke" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  </defs>
+  <rect width="1200" height="250" rx="14" fill="url(#bg)"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">
+    <g fill="#e2e8f0" stroke="#334155">
+      <rect x="35" y="82" width="120" height="54" rx="9"/><rect x="174" y="82" width="120" height="54" rx="9"/><rect x="313" y="82" width="120" height="54" rx="9"/>
+      <rect x="478" y="55" width="245" height="108" rx="10"/><rect x="778" y="82" width="120" height="54" rx="9"/><rect x="937" y="82" width="120" height="54" rx="9"/><rect x="1092" y="82" width="75" height="54" rx="9"/>
+    </g>
+    <g fill="#67e8f9" font-size="11"><text x="52" y="105">ADMIN</text><text x="191" y="105">PHARMACY</text><text x="330" y="105">CUSTOMER</text><text x="498" y="78">LAYERED API CORE</text><text x="798" y="105">DATA</text><text x="957" y="105">EVENTS</text><text x="1104" y="105">PAY</text></g>
+    <g fill="#94a3b8"><text x="498" y="102">auth · workflows · audit</text><text x="498" y="126">inventory · appointments</text><text x="798" y="126">MongoDB</text><text x="957" y="126">Socket.io</text><text x="1100" y="126">Stripe</text></g>
+    <g fill="none" stroke="url(#stroke)" stroke-width="2"><path d="M155 109h19M294 109h19M433 109h45M723 109h55M898 109h39M1057 109h35"/></g>
+    <g fill="#67e8f9"><circle cx="164" cy="109" r="3"/><circle cx="303" cy="109" r="3"/><circle cx="455" cy="109" r="3"/><circle cx="750" cy="109" r="3"/><circle cx="918" cy="109" r="3"/></g>
+    <text x="35" y="34" fill="#64748b">roles are modules; authorization is a boundary</text>
+  </g>
+</svg>

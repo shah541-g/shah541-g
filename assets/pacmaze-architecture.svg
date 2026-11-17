@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">PacMaze Adventures architecture</title>
+  <desc id="desc">A Java Swing client communicates with a Spring Boot API secured by Spring Security and persisted with JPA and MySQL.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="stroke" x1="0" x2="1"><stop stop-color="#facc15"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+  </defs>
+  <rect width="1200" height="230" rx="14" fill="url(#bg)"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">
+    <g fill="#e2e8f0" stroke="#334155">
+      <rect x="64" y="78" width="230" height="74" rx="10"/><rect x="394" y="78" width="210" height="74" rx="10"/>
+      <rect x="704" y="78" width="210" height="74" rx="10"/><rect x="1014" y="78" width="120" height="74" rx="10"/>
+    </g>
+    <g fill="#facc15" font-size="12"><text x="84" y="104">JAVA SWING CLIENT</text><text x="414" y="104">SPRING BOOT API</text><text x="724" y="104">SECURITY + JPA</text><text x="1034" y="104">MYSQL</text></g>
+    <g fill="#94a3b8"><text x="84" y="128">MVC · game state</text><text x="414" y="128">REST · sessions</text><text x="724" y="128">BCrypt · entities</text><text x="1034" y="128">history</text></g>
+    <g fill="none" stroke="url(#stroke)" stroke-width="2"><path d="M294 115h100M604 115h100M914 115h100"/></g>
+    <g fill="#facc15"><circle cx="344" cy="115" r="3"/><circle cx="654" cy="115" r="3"/><circle cx="964" cy="115" r="3"/></g>
+    <text x="64" y="34" fill="#64748b">desktop interaction → secure service → persistent game history</text>
+  </g>
+</svg>
