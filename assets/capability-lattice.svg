@@ -10,7 +10,10 @@
     <path d="M80 70h1040M80 150h1040M80 230h1040"/>
     <path d="M100 42v216M300 42v216M500 42v216M700 42v216M900 42v216M1100 42v216"/>
   </g>
-  <path d="M100 150C220 50 280 250 400 150S580 50 700 150s180 100 300 0" fill="none" stroke="url(#route)" stroke-width="2.5"/>
+  <g fill="none" stroke="url(#route)" stroke-width="2.5">
+    <path d="M192 150h50"/><path d="M392 150h50"/><path d="M592 150h50"/>
+    <path d="M792 150h50"/><path d="M992 150h50"/>
+  </g>
   <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
     <g fill="#64748b" font-size="11" letter-spacing="2"><text x="54" y="34">THE ENGINEERING SURFACE</text><text x="1000" y="34">01—06</text></g>
     <g fill="#182235" stroke="#475569">
@@ -28,8 +31,8 @@
       <text x="460" y="165">models · boundaries</text><text x="660" y="165">Docker · CI/CD · cloud</text>
       <text x="860" y="165">agents · transformers</text><text x="1060" y="165">OOP · DSA · data</text>
     </g>
-    <g fill="#67e8f9"><circle cx="100" cy="150" r="4"/><circle cx="300" cy="150" r="4"/></g>
-    <g fill="#a78bfa"><circle cx="500" cy="150" r="4"/><circle cx="700" cy="150" r="4"/></g>
-    <g fill="#facc15"><circle cx="900" cy="150" r="4"/><circle cx="1100" cy="150" r="4"/></g>
+    <g fill="#67e8f9"><circle cx="217" cy="150" r="4"/><circle cx="417" cy="150" r="4"/></g>
+    <g fill="#a78bfa"><circle cx="617" cy="150" r="4"/><circle cx="817" cy="150" r="4"/></g>
+    <g fill="#facc15"><circle cx="1017" cy="150" r="4"/></g>
   </g>
 </svg>
