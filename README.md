@@ -10,6 +10,10 @@
   <a href="mailto:syedabdulalishah.786@gmail.com">Email</a>
 </p>
 
+<p align="center">
+  <code>product systems</code> · <code>distributed workflows</code> · <code>AI tooling</code> · <code>operable software</code>
+</p>
+
 ## Engineering across the stack
 
 I’m **Syed Abdul Ali Shah**, a Software Engineer working across product engineering, backend systems, infrastructure, and AI-assisted tools. I work across languages and ecosystems rather than around one framework: from C and C++ foundations to Java, C#, Python, PHP, JavaScript, and TypeScript applications.
@@ -45,6 +49,8 @@ At Ventech Studio, I work on international event-ticketing and fan-engagement pr
 
 ### [ShipCheck](https://github.com/shah541-g/ShipCheck) · AI website auditing
 
+<p><sub>INFRASTRUCTURE / SECURITY / BROWSER AUTOMATION</sub></p>
+
 <p align="center">
   <img src="./assets/shipcheck-architecture.svg" alt="ShipCheck architecture: planner, policy gate, isolated browser sandbox, and evidence report" width="100%">
 </p>
@@ -56,6 +62,8 @@ The interesting part is the containment model: strict URL policy, schema-validat
 `Docker` `gVisor` `Playwright` `Vultr` `Serverless Inference` `Object Storage`
 
 ### [Regression Whisperer](https://github.com/shah541-g/regression-whisperer) · AI debugging knowledge base
+
+<p><sub>AI PRODUCT / KNOWLEDGE SYSTEMS / MULTI-TENANCY</sub></p>
 
 <p align="center">
   <img src="./assets/regression-whisperer-architecture.svg" alt="Regression Whisperer architecture: React client, authenticated API, knowledge store, and AI assistance" width="100%">
@@ -69,6 +77,8 @@ The value is not just storing incidents; it is making the reasoning behind a fix
 
 ### [Philbox / Ventech Project](https://github.com/shah541-g/Ventech-Project) · healthcare operations SaaS
 
+<p><sub>PRODUCT ENGINEERING / BACKEND ARCHITECTURE / ROLE-BASED WORKFLOWS</sub></p>
+
 <p align="center">
   <img src="./assets/philbox-architecture.svg" alt="Philbox architecture: role-aware API core connecting pharmacy, customer, and administration modules" width="100%">
 </p>
@@ -81,6 +91,8 @@ The project is a practical study in authorization boundaries, inventory and bran
 
 ### [PacMaze Adventures](https://github.com/shah541-g/PacMan-SpringBoot) · client-server desktop game
 
+<p><sub>DESKTOP SOFTWARE / DISTRIBUTED SYSTEMS / SECURITY</sub></p>
+
 <p align="center">
   <img src="./assets/pacmaze-architecture.svg" alt="PacMaze client-server architecture: Java Swing client, REST API, security layer, and MySQL" width="100%">
 </p>
@@ -92,6 +104,8 @@ That explicit scope is part of the engineering story: a useful system is clearer
 `Java` `Spring Boot` `Java Swing` `MySQL` `Spring Security` `JPA/Hibernate`
 
 ### [SpecSim](https://github.com/shah541-g/SpecSim) · agentic requirements discovery
+
+<p><sub>AGENT SYSTEMS / EVALUATION / REQUIREMENTS ENGINEERING</sub></p>
 
 <p align="center">
   <img src="./assets/specsim-workflow.svg" alt="SpecSim workflow: stakeholder agent and evaluator agent separated by a transcript boundary" width="100%">
@@ -128,7 +142,3 @@ The architecture makes the evaluation meaningful by separating conversation memo
 If you are working on a product where the workflow, architecture, or operational boundary matters as much as the interface, I’d be glad to talk.
 
 **[Portfolio](https://syed-abdul-ali-shah.lovable.app)** · **[LinkedIn](https://linkedin.com/in/syed-abdul-ali-shah)** · **[GitHub](https://github.com/shah541-g)** · **[Email](mailto:syedabdulalishah.786@gmail.com)**
-
-<p align="center">
-  <sub>The native GitHub contribution graph remains the source of truth for activity; no third-party statistics widget is used here.</sub>
-</p>
