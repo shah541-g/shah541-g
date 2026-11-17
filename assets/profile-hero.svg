@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Syed Abdul Ali Shah — Software Engineer</title>
+  <desc id="desc">A dark terminal-inspired engineering portfolio header.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8f9"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#334155" stroke-opacity=".22"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+  <path d="M760 0h440v360H860c35-76 25-145-32-204C783 102 759 48 760 0Z" fill="#172554" opacity=".55"/>
+  <path d="M0 292h1200" stroke="#334155" stroke-opacity=".5"/>
+  <circle cx="48" cy="38" r="6" fill="#fb7185"/>
+  <circle cx="70" cy="38" r="6" fill="#facc15"/>
+  <circle cx="92" cy="38" r="6" fill="#4ade80"/>
+  <text x="48" y="106" fill="#67e8f9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">$ whoami</text>
+  <text x="48" y="158" fill="#f8fafc" font-family="ui-sans-serif,system-ui,sans-serif" font-size="42" font-weight="700">Syed Abdul Ali Shah</text>
+  <text x="50" y="197" fill="#cbd5e1" font-family="ui-sans-serif,system-ui,sans-serif" font-size="21">Software Engineer · Product systems · AI tooling</text>
+  <rect x="50" y="228" width="440" height="3" rx="2" fill="url(#accent)"/>
+  <text x="50" y="266" fill="#94a3b8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">build / understand / harden / ship</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".85">
+    <path d="M835 95h112l30 30h130"/>
+    <path d="M870 175h84l24-24h130"/>
+    <path d="M820 255h145l28-28h110"/>
+    <circle cx="835" cy="95" r="5" fill="#67e8f9"/>
+    <circle cx="870" cy="175" r="5" fill="#a78bfa"/>
+    <circle cx="820" cy="255" r="5" fill="#67e8f9"/>
+    <circle cx="1107" cy="125" r="5" fill="#a78bfa"/>
+    <circle cx="1108" cy="151" r="5" fill="#67e8f9"/>
+    <circle cx="1103" cy="227" r="5" fill="#a78bfa"/>
+  </g>
+  <text x="878" y="87" fill="#cbd5e1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">reliable systems</text>
+  <text x="902" y="168" fill="#cbd5e1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">useful AI</text>
+  <text x="852" y="248" fill="#cbd5e1" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">clear boundaries</text>
+  <text x="48" y="326" fill="#64748b" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">Lahore, Pakistan</text>
+</svg>
