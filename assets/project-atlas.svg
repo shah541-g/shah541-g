@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Selected engineering project atlas</title>
+  <desc id="desc">Five project panels show distinct engineering themes: containment, knowledge retrieval, healthcare workflows, client-server software, and agent evaluation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="route" x1="0" x2="1"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#facc15"/></linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="14" fill="url(#bg)"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
+    <text x="38" y="34" fill="#64748b" font-size="11" letter-spacing="2">SELECTED WORK / SYSTEMS WITH A POINT OF VIEW</text>
+    <path d="M40 56h1120" stroke="#334155"/>
+    <g fill="#182235" stroke="#475569">
+      <rect x="40" y="82" width="350" height="120" rx="11"/><rect x="425" y="82" width="350" height="120" rx="11"/><rect x="810" y="82" width="350" height="120" rx="11"/>
+      <rect x="232" y="244" width="350" height="120" rx="11"/><rect x="618" y="244" width="350" height="120" rx="11"/>
+    </g>
+    <g font-size="12" font-weight="600">
+      <text x="62" y="112" fill="#67e8f9">01 / SHIPCHECK</text><text x="447" y="112" fill="#c4b5fd">02 / REGRESSION WHISPERER</text><text x="832" y="112" fill="#5eead4">03 / PHILBOX</text>
+      <text x="254" y="274" fill="#fde68a">04 / PACMAZE ADVENTURES</text><text x="640" y="274" fill="#c4b5fd">05 / SPECSIM</text>
+    </g>
+    <g fill="#f8fafc" font-size="13">
+      <text x="62" y="138">safe browser automation</text><text x="447" y="138">debugging knowledge graph</text><text x="832" y="138">role-aware healthcare SaaS</text>
+      <text x="254" y="300">desktop client + REST service</text><text x="640" y="300">two-agent evaluation loop</text>
+    </g>
+    <g fill="#94a3b8" font-size="11">
+      <text x="62" y="165">policy · gVisor · evidence</text><text x="447" y="165">React · MongoDB · Gemini</text><text x="832" y="165">workflows · audit · payments</text>
+      <text x="254" y="327">Swing · Spring Boot · MySQL</text><text x="640" y="327">ground truth · transcript · rubric</text>
+    </g>
+    <g fill="none" stroke="url(#route)" stroke-width="2">
+      <path d="M215 142h150M600 142h150M985 142h150M407 304h-80M793 304h80"/>
+    </g>
+    <g fill="#67e8f9"><circle cx="215" cy="142" r="4"/><circle cx="600" cy="142" r="4"/></g>
+    <g fill="#5eead4"><circle cx="985" cy="142" r="4"/></g>
+    <g fill="#facc15"><circle cx="407" cy="304" r="4"/></g>
+    <g fill="#c4b5fd"><circle cx="793" cy="304" r="4"/></g>
+  </g>
+</svg>

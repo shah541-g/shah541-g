@@ -26,34 +26,21 @@ At Ventech Studio, I work on international event-ticketing and fan-engagement pr
   <img src="./assets/section-divider.svg" alt="" width="100%">
 </p>
 
-## Capability map
+## Engineering disciplines
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Build</strong><br>
-      Product APIs, dashboards, desktop clients, mobile apps, and full-stack workflows.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Reason</strong><br>
-      OOP, data structures, system design, domain modeling, and explicit boundaries.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Operate</strong><br>
-      Docker deployments, CI/CD, authentication, authorization, isolation, and observability.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/capability-lattice.svg" alt="Connected engineering disciplines: application development, backend systems, architecture, infrastructure, AI, and foundations" width="100%">
+</p>
 
 ## Selected work
+
+<p align="center">
+  <img src="./assets/project-atlas.svg" alt="Selected project atlas showing ShipCheck, Regression Whisperer, Philbox, PacMaze, and SpecSim" width="100%">
+</p>
 
 ### [ShipCheck](https://github.com/shah541-g/ShipCheck) · AI website auditing
 
 <p><sub>INFRASTRUCTURE / SECURITY / BROWSER AUTOMATION</sub></p>
-
-<p align="center">
-  <img src="./assets/shipcheck-architecture.svg" alt="ShipCheck architecture: planner, policy gate, isolated browser sandbox, and evidence report" width="100%">
-</p>
 
 An end-to-end website auditor that explores public sites like a user and returns findings with evidence. I built the infrastructure and deployment path: provisioning a Vultr VM, configuring the firewall, deploying Docker services, wiring Object Storage and Serverless Inference, and running browser work in disposable **gVisor** sandboxes.
 
@@ -61,13 +48,14 @@ The interesting part is the containment model: strict URL policy, schema-validat
 
 `Docker` `gVisor` `Playwright` `Vultr` `Serverless Inference` `Object Storage`
 
+<details>
+  <summary>View ShipCheck architecture</summary>
+  <p align="center"><img src="./assets/shipcheck-architecture.svg" alt="ShipCheck architecture: planner, policy gate, isolated browser sandbox, and evidence report" width="100%"></p>
+</details>
+
 ### [Regression Whisperer](https://github.com/shah541-g/regression-whisperer) · AI debugging knowledge base
 
 <p><sub>AI PRODUCT / KNOWLEDGE SYSTEMS / MULTI-TENANCY</sub></p>
-
-<p align="center">
-  <img src="./assets/regression-whisperer-architecture.svg" alt="Regression Whisperer architecture: React client, authenticated API, knowledge store, and AI assistance" width="100%">
-</p>
 
 A searchable knowledge base for turning recurring regressions into reusable debugging knowledge. The system combines a React interface with an Express/MongoDB API, JWT authentication, organization-aware data, analytics, voice input, CSV import, and Gemini-powered assistance.
 
@@ -75,13 +63,14 @@ The value is not just storing incidents; it is making the reasoning behind a fix
 
 `React` `Node.js` `Express` `MongoDB` `Google Gemini` `JWT`
 
+<details>
+  <summary>View Regression Whisperer architecture</summary>
+  <p align="center"><img src="./assets/regression-whisperer-architecture.svg" alt="Regression Whisperer architecture: React client, authenticated API, knowledge store, and AI assistance" width="100%"></p>
+</details>
+
 ### [Philbox / Ventech Project](https://github.com/shah541-g/Ventech-Project) · healthcare operations SaaS
 
 <p><sub>PRODUCT ENGINEERING / BACKEND ARCHITECTURE / ROLE-BASED WORKFLOWS</sub></p>
-
-<p align="center">
-  <img src="./assets/philbox-architecture.svg" alt="Philbox architecture: role-aware API core connecting pharmacy, customer, and administration modules" width="100%">
-</p>
 
 A pharmacy and healthcare management platform with multiple role-specific workflows. As Project Manager and Backend Lead, I designed the three-layer backend architecture, four role-based modules, and more than 100 REST route groups, while implementing core administrative and customer-facing functionality.
 
@@ -89,13 +78,14 @@ The project is a practical study in authorization boundaries, inventory and bran
 
 `Node.js` `Express` `React` `MongoDB` `Socket.io` `Stripe` `JWT` `GitHub Actions`
 
+<details>
+  <summary>View Philbox architecture</summary>
+  <p align="center"><img src="./assets/philbox-architecture.svg" alt="Philbox architecture: role-aware API core connecting pharmacy, customer, and administration modules" width="100%"></p>
+</details>
+
 ### [PacMaze Adventures](https://github.com/shah541-g/PacMan-SpringBoot) · client-server desktop game
 
 <p><sub>DESKTOP SOFTWARE / DISTRIBUTED SYSTEMS / SECURITY</sub></p>
-
-<p align="center">
-  <img src="./assets/pacmaze-architecture.svg" alt="PacMaze client-server architecture: Java Swing client, REST API, security layer, and MySQL" width="100%">
-</p>
 
 Pac-Man-inspired desktop software with a Java Swing client, Spring Boot REST API, MySQL persistence, MVC structure, Spring Security, and JPA/Hibernate. The repository documents both the implemented single-player path and the deliberately unfinished multiplayer boundary.
 
@@ -103,19 +93,25 @@ That explicit scope is part of the engineering story: a useful system is clearer
 
 `Java` `Spring Boot` `Java Swing` `MySQL` `Spring Security` `JPA/Hibernate`
 
+<details>
+  <summary>View PacMaze architecture</summary>
+  <p align="center"><img src="./assets/pacmaze-architecture.svg" alt="PacMaze client-server architecture: Java Swing client, REST API, security layer, and MySQL" width="100%"></p>
+</details>
+
 ### [SpecSim](https://github.com/shah541-g/SpecSim) · agentic requirements discovery
 
 <p><sub>AGENT SYSTEMS / EVALUATION / REQUIREMENTS ENGINEERING</sub></p>
-
-<p align="center">
-  <img src="./assets/specsim-workflow.svg" alt="SpecSim workflow: stakeholder agent and evaluator agent separated by a transcript boundary" width="100%">
-</p>
 
 A two-agent simulator for practicing requirements discovery. One agent roleplays a stakeholder who reveals hidden facts only when asked relevant questions; an independent evaluator scores the resulting transcript against a deterministic requirement matrix.
 
 The architecture makes the evaluation meaningful by separating conversation memory from judgment, validating structured model output, and keeping a deterministic fallback for model failure.
 
 `Node.js` `Express` `LLM workflows` `Schema validation` `Experiment reporting`
+
+<details>
+  <summary>View SpecSim workflow</summary>
+  <p align="center"><img src="./assets/specsim-workflow.svg" alt="SpecSim workflow: stakeholder agent and evaluator agent separated by a transcript boundary" width="100%"></p>
+</details>
 
 <p align="center">
  <img src="./assets/section-divider.svg" alt="" width="100%">
